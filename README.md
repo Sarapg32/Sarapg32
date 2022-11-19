@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarapg32
 - 👀 I’m interested in data analisys and programming in life sciences
-- 🌱 I’m currently learning data analysis wirh R
+- 🌱 I’m currently studying a master's course on Data Science & Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
